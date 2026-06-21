@@ -1,3 +1,0 @@
-[console_scripts]
-circle_publisher = turtle_controller.circle_publisher:main
-
